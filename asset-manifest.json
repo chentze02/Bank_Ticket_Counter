@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Bank_Ticket_Counter/static/css/main.073c9b0a.css",
+    "main.js": "/Bank_Ticket_Counter/static/js/main.b82e2eed.js",
+    "static/js/787.cb83bea8.chunk.js": "/Bank_Ticket_Counter/static/js/787.cb83bea8.chunk.js",
+    "index.html": "/Bank_Ticket_Counter/index.html",
+    "main.073c9b0a.css.map": "/Bank_Ticket_Counter/static/css/main.073c9b0a.css.map",
+    "main.b82e2eed.js.map": "/Bank_Ticket_Counter/static/js/main.b82e2eed.js.map",
+    "787.cb83bea8.chunk.js.map": "/Bank_Ticket_Counter/static/js/787.cb83bea8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b82e2eed.js"
+  ]
+}
